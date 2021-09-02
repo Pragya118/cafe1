@@ -1,0 +1,278 @@
+.left {
+  display: inline-block;
+  font-family: sans-serif;
+  font-size: 30px;
+  padding-left: 60px;
+}
+
+.right {
+  display: inline-block;
+  float: right;
+  padding-right: 20px;
+  font-size: 40px;
+}
+
+ul li {
+  display: inline-block;
+  padding: 20px;
+  text-decoration-line: underline;
+  font-size: 20px;
+  font-family: frank-new, Arial, sans-serif;
+}
+
+.middle {
+  margin-top: 20px;
+  position: relative;
+  padding-top: 100px;
+}
+.middleleft {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  font-size: 18px;
+}
+
+.headings {
+  position: absolute;
+  height: 50px;
+  font-family: Arial;
+  font-size: 100px;
+  margin-top: 0;
+  padding-left: 120px;
+}
+
+.bake1 {
+  width: 100%;
+  padding-top: 70px;
+  height: 500px;
+}
+.middleinner{
+  margin-top: 150px;
+}
+.para{
+  font-size: 50px;
+  text-align: center;
+  font-family: frank-new, Arial, sans-serif;
+}
+
+.pastrysection{
+  margin-top: 100px;
+  margin-left: 25px;
+  display: flex;
+}
+.pastries{
+  width: 600px;
+  height: 600px;
+  display: flex;
+}
+.pastries_details{
+margin-left: 100px;
+margin-top: 150px;
+}
+.pastry_heading{
+  font-size: 50px;
+  font-family: Arial;
+}
+.pastry_para{
+  font-size: 30px;
+  text-align: left;
+}
+.lunchsection{
+  margin-top: 100px;
+  margin-left: 25px;
+  display: flex;
+}
+.lunch{
+  width: 600px;
+  height: 600px;
+  display: flex;
+  margin-left: 150px;
+}
+.lunch_details{
+margin-left: 200px;
+margin-top: 150px;
+
+}
+.lunch_heading{
+  font-size: 50px;
+  font-family: Arial;
+  margin-top: 150px;
+}
+.lunch_para{
+  font-size: 30px;
+  text-align: left;
+}
+.beverage{
+  width: 600px;
+  height: 600px;
+  display: flex;
+  margin-left: 10px;
+}
+.beveragesection{
+  margin-top: 100px;
+  margin-left: 25px;
+  display: flex;
+}
+.beverage_details{
+margin-left: 100px;
+margin-top: 150px;
+
+}
+.beverage_heading{
+  font-size: 50px;
+  font-family: Arial;
+  margin-top: 40px;
+  margin-right: 20px;
+}
+.beverage_para{
+  font-size: 30px;
+  text-align: left;
+}
+
+
+
+.sweets{
+  width: 600px;
+  height: 600px;
+  display: flex;
+  margin-left: 100px;
+}
+.sweetssection{
+  margin-top: 100px;
+  margin-left: 20;
+  display: flex;
+}
+.sweets_details{
+  margin-left: 50px;
+  margin-top: 30px;
+
+}
+.sweets_heading{
+  font-size: 50px;
+  font-family: Arial;
+  margin-top: 30px;
+}
+.sweets_para{
+  font-size: 30px;
+  text-align: left;
+}
+.insta{
+  margin-top: 200px;
+  margin-left: 30px;
+
+}
+.insta_heading{
+  font-size: 60px;
+}
+.insta_para{
+  font-size: 30px;
+}
+.cake{
+  display: flex;
+  margin-top: 150px;
+  padding: 0;
+}
+.cake1{
+  width: 600px;
+  height: 600px;
+
+}
+.cake2{
+  width: 600px;
+  height: 600px;
+}
+.cake3{
+  width: 600px;
+  height: 600px;
+}
+.bottom{
+  background-color: black;
+  padding: 0;
+
+}
+.bottom_heading{
+  color: white;
+  margin-left: 160px;
+  font-size: 70px;
+  margin-top: 150px;
+}
+.bottom_para{
+  color: white;
+  margin-left: 160px;
+  font-size: 30px;
+}
+.bottominner{
+  display: flex;
+  color: white;
+  margin-left: 160px;
+}
+.bottom_left{
+  margin-left: 20px;
+}
+.bottom_right{
+  margin-left: 210px;
+}
+.bottom_left_para{
+  font-size: 30px;
+}
+.bottom_right_para{
+  font-size: 30px;
+}
+.bottom_left_heading{
+  font-size: 35px;
+}
+.bottom_right_heading{
+  font-size: 35px;
+}
+.contact_us{
+  color: white;
+}
+.contact_heading{
+  margin-left: 160px;
+  font-size: 70px;
+}
+.contact_para{
+  margin-left:160px;
+  font-size: 30px;
+}
+.forms{
+  color: white;
+  margin-left: 160px;
+  margin-top: 100px;
+}
+.input {
+  width: 1000px;
+  background-color: rgb(53, 53, 53);
+  height: 60px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: solid;
+  box-sizing: border-box;
+}
+.label{
+  font-size: 20px;
+}
+
+.submit{
+  font-size: 20px;
+  color: white;
+  padding: 10px 0px;
+  background-color: black;
+  border: solid black;
+  box-sizing: border-box;
+  text-decoration: underline;
+  font-family: frank-new,Arial,sans-serif;
+}
+
+.designer{
+  color: white;
+  margin-top: 100px;
+  text-align: center;
+}
+.designer_heading2{
+  font-size: 50px;
+  font-family: fantasy;
+  text-decoration: none;
+  color: white;
+}
